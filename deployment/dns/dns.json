@@ -4,7 +4,7 @@
     {
       "Action": "CREATE",
       "ResourceRecordSet": {
-        "Name": "myapp.ubsclass2.tk",
+        "Name": "myapp.vadclass.tk",
         "Type": "CNAME",
         "TTL": 1000,
         "ResourceRecords": [
